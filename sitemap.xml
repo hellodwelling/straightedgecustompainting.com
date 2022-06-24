@@ -2,3 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://straightedgecustompainting.com/index</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/store</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/reviews</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/gallery-All</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/gallery-Interior-Painting</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/gallery-Exterior-Painting</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/service-Interior-Painting</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/service-Exterior-Painting</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/service-Kitchen-and-Cabinet-Refinishing</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/service-Drywall-and-Plastering</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/service-Other-Painting-Services</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/service-Home-Improvement</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/service-Bathroom-Remodeling</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/service-Kitchen-Remodeling</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://straightedgecustompainting.com/service-Airbnb-Consultant</loc>
+        <lastmod>2022-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
